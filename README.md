@@ -21,7 +21,7 @@ https://github.com/MedvedvJava/SOLID-HW/blob/9e283a3fd37b78484f9b8ddbdc7746c225b
 Поля классов Basket и Orders достаточно схожи и можно было бы наследовать Basket в Orders и сделать один класс для работы с корзиной и списком покупок, но тогда бы класс был бы перегружен методами.
 <br>
 ### O
-### L - наследуй, только тогда, когда можешь ишрать роль предка
+### L - наследуй, только тогда, когда можешь играть роль предка
 
 https://github.com/MedvedvJava/SOLID-HW/blob/9e283a3fd37b78484f9b8ddbdc7746c225b1a0d4/src/Product.java#L1-L43
 https://github.com/MedvedvJava/SOLID-HW/blob/9e283a3fd37b78484f9b8ddbdc7746c225b1a0d4/src/Storage.java#L1-L48
